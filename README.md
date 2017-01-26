@@ -6,7 +6,6 @@ This is an upcoming project. Everyone knows sanskrit was one of the greatest lan
 
 This project can help identify many of the forgotten logic and science behind the language and its vast huge number of literatures. For example:
 * a sanskrit literature on Vaastu Shaastra contains huge number of scientific knowledge that can be applied in the field of construction. 
-
 * The nyayashastra is a treatise on the science behind law and how it can be applied in various areas of law.
 
 ## How machine learning can help achieve this?
